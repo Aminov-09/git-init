@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "calculate.h"
-
+ВНОШУ ИЗМЕНЕНИЯ
 int
 main (void)
 {

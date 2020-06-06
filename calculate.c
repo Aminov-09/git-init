@@ -2,6 +2,7 @@
 #include <math.h>
 #include <string.h>
 #include"calculate.h"
+ВНОШУ ИЗМЕНЕНИЯ
 float
 Calculate (float Numeral, char Operation[4])
 {
